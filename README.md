@@ -2,4 +2,4 @@
 
 # DiffAugment_GAN.ipynb
 
-　今回は、2020/6に発表されたGANの学習における Data Augmentation とも言える、Differentiable Augmentation についてご説明します。詳細は、[cedro-blog]()を参照下さい。
+　2020/6に発表されたGANの学習における Data Augmentation とも言える、Differentiable Augmentation を使って100枚の画像からGANを学習するコードです。詳細は、[cedro-blog]()を参照下さい。
